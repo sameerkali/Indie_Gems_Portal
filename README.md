@@ -1,6 +1,20 @@
 # Indie Gems Portal
 
 # Live Link  [Indie Gems Portal](https://indie-gems-portal.vercel.app/).
+# For Big Screens. Results be like -
+## catogory_searching
+![Alt text](src/assets/git_reference/big_screen/catogory_searching.png)
+## light_theam
+![Alt text](src/assets/git_reference/big_screen/light_theam.png)
+## main_look
+![Alt text](src/assets/git_reference/big_screen/main_look.png)
+## platform_searching
+![Alt text](src/assets/git_reference/big_screen/platform_searching.png)
+## skeliton_loading
+![Alt text](src/assets/git_reference/big_screen/skeliton_loading.png)
+
+# It is Proper responsive
+<img src="src/assets/git_reference/small_screen/responsive_image.png" alt="image" width="auto" height="auto">
 
 
 Welcome to Indie Gems Portal, a platform where you can search and discover your favorite games based on various categories.
@@ -55,3 +69,5 @@ This project is licensed under the [MIT License](LICENSE).
 * chackra-ui
 * https://rawg.io/ `for game DB api`
 * vite
+---
+make with ~~lust~~ love 💖 by @sameerkali
