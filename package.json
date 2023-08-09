@@ -1,8 +1,9 @@
 {
-  "name": "game-hub",
-  "private": true,
-  "version": "0.0.0",
+  "name": "Indie_Gems_Portal",
+  "private": false,
+  "version": "0.1.0",
   "type": "module",
+  "developer": "sameerkali",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
