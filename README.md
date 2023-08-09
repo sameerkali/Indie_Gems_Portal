@@ -45,3 +45,9 @@ Contributions are welcome! If you'd like to contribute:
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## Technologys
+* react18
+* typescript
+* chackra-ui
+* https://rawg.io/ `for game DB api`
