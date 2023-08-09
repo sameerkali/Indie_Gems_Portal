@@ -1,6 +1,6 @@
 # Indie Gems Portal
 
-Welcome to Game Explorer, a platform where you can search and discover your favorite games based on various categories.
+Welcome to Indie Gems Portal, a platform where you can search and discover your favorite games based on various categories.
 
 ## Table of Contents
 
@@ -51,3 +51,4 @@ This project is licensed under the [MIT License](LICENSE).
 * typescript
 * chackra-ui
 * https://rawg.io/ `for game DB api`
+* vite
