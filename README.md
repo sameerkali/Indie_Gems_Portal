@@ -30,7 +30,7 @@ Welcome to Indie Gems Portal, a platform where you can search and discover your 
 
 ## Introduction
 
-Game Explorer is a web application that allows users to search for games based on genres, platforms, release dates, and ratings. It provides a convenient way to explore and find games that match your preferences.
+Indie Gems Portal is a web application that allows users to search for games based on genres, platforms, release dates, and ratings. It provides a convenient way to explore and find games that match your preferences.
 
 ## Features
 
@@ -40,14 +40,14 @@ Game Explorer is a web application that allows users to search for games based o
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/yourusername/game-explorer.git`
-2. Navigate to the project directory: `cd game-explorer`
+1. Clone the repository: `git clone https://github.com/sameerkali/Indie_Gems_Portal.git`
+2. Navigate to the project directory: `cd Indie_Gems_Portal`
 3. Install dependencies: `npm install`
 
 ## Usage
 
-1. Start the development server: `npm start`
-2. Open your web browser and go to `http://localhost:3000`
+1. Start the development server: `npm run dev`
+2. Open your web browser and go to `http://localhost:5172/`
 3. Use the search and sorting features to discover your favorite games.
 
 ## Contributing
